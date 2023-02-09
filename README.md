@@ -4,7 +4,15 @@ My Tester's Portfolio
 # About me
 
 Hi! I'm Magda, I'm 28 years old and I've been learning software testing for several months. I studied on the uTest platform, YouTube and completed several courses on Udemy. I am looking for my first experience in the IT industry. I am preparing to obtain the ISTQB (Foundation Level) certification. In the future, I would like to develop towards automated testing. I always try to achieve my goals.
-
+# Soft skills
+  - Accuracy
+  - Curiosity
+  - Stress resistance
+  - Teamwork
+  - Effective Communication
+  - Empathy
+  - Problem-Solving Attitude
+  - Tolerance
 # Tools
   - [Jira](https://www.atlassian.com/software/jira0) - Issue tracking and project management tool for developers
   - [TestLink](https://testlink.org/) - Test management system
