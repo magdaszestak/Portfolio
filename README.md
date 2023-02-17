@@ -46,7 +46,6 @@ Hi! I'm Magda, I'm 28 years old and I've been learning software testing for seve
   - testerzy.pl
   - testerka.pl
 # My test case examples
-  -
+  - [📄 Test raport](test%20raport.pdf)
 # My bug reports
-  -
-      
+  - [📸 Jira issues](/jira-issues)
