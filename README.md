@@ -3,7 +3,8 @@ My Tester's Portfolio
 
 # About me
 
-Hi! I am seeking a junior manual tester position. I have been learning software testing for several months.
+Hi! I am seeking a junior manual tester position. 
+I have been learning software testing for several months.
 I regularly acquire theoretical knowledge from ISTQB syllabus and practically test applications and websites designed to learn software testing.
 
 # Soft skills
