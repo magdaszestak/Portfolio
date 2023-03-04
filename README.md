@@ -51,3 +51,5 @@ Hi! I'm Magda, I'm 28 years old and I've been learning software testing for seve
   - [📄 Test raport](test%20raport.pdf)
 # My bug reports
   - [📸 Jira issues](/jira-issues)
+ # REST API
+  - [📬 Postman](/postman)
