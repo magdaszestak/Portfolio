@@ -47,9 +47,9 @@ Hi! I'm Magda, I'm 28 years old and I've been learning software testing for seve
   - testerka.pl
   - Technika Programowania
   - Testerem Być - Maciej Kusz
-# My test case examples
+# Test case examples
   - [📄 Test raport](test%20raport.pdf)
-# My bug reports
+# Bug reports
   - [📸 Jira issues](/jira-issues)
  # REST API
   - [📬 Postman](/postman)
