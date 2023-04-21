@@ -51,7 +51,7 @@ I regularly acquire theoretical knowledge from ISTQB syllabus and practically te
   - Technika Programowania
   - Testerem Być - Maciej Kusz
 # Test case examples
-  - [📄 Test raport](test%20raport.pdf)
+  - [📄 Test report](Test%20Report.pdf)
 # Bug reports
   - [📸 Jira issues](/jira-issues)
  # REST API
